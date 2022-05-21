@@ -1,0 +1,23 @@
+<svg width="520" height="520" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xml:space="preserve" overflow="hidden">
+    <defs>
+        <clipPath id="clip0">
+            <rect x="390" y="373" width="520" height="520" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#clip0)" transform="translate(-390 -373)">
+        <rect x="390" y="373" width="520" height="85.9999" fill="#FF000E" />
+        <rect x="390" y="459" width="520" height="87" fill="#FF7300" />
+        <rect x="390" y="546" width="520" height="87" fill="#FAD220" />
+        <rect x="390" y="633" width="520" height="86.0003" fill="#138F3E" />
+        <rect x="390" y="719" width="520" height="87" fill="#3558A0" />
+        <rect x="390" y="806" width="520" height="87" fill="#880082" />
+        <path d="M390 816 512.286 632.503 390 449 481.715 449 604 632.503 481.715 816 390 816Z" fill="#FFFFFF"
+            fill-rule="evenodd" />
+        <path d="M513 816 635.186 632.503 513 449 604.639 449 849 816 757.371 816 681.01 701.317 604.634 816 513 816Z"
+            fill="#FFFFFF" fill-rule="evenodd" />
+        <path
+            d="M808 708.995 767.2 647.792 910 647.792 910 709 808 709ZM746.8 617.203 706 556 910 556 910 617.203 746.8 617.203Z"
+            fill="#FFFFFF" fill-rule="evenodd" />
+    </g>
+</svg>

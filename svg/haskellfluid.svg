@@ -1,0 +1,22 @@
+<svg width="520" height="520" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xml:space="preserve" overflow="hidden">
+    <defs>
+        <clipPath id="clip0">
+            <rect x="1685" y="981" width="520" height="520" />
+        </clipPath>
+    </defs>
+    <g clip-path="url(#clip0)" transform="translate(-1685 -981)">
+        <rect x="1685" y="981" width="520" height="520" fill="#232323" />
+        <path
+            d="M1772.33 981 2119 1501 1772.32 1501C1772.32 1327.67 1772.33 1154.33 1772.33 981ZM1686 981 1772.32 981 1772.32 1501 1686 1501Z"
+            fill="#F5F5F5" fill-rule="evenodd" />
+        <path d="M1685 1424 1807.29 1241 1685 1058 1776.71 1058 1899 1241 1776.71 1424 1685 1424Z" fill="#FF77A4"
+            fill-rule="evenodd" />
+        <path
+            d="M1807 1424 1929.55 1241 1807 1058 1898.91 1058 2144 1424 2052.1 1424 1975.51 1309.63 1898.91 1424 1807 1424Z"
+            fill="#C008D8" fill-rule="evenodd" />
+        <path
+            d="M2103 1317 2062.2 1256.19 2205 1256.19 2205 1317 2103 1317ZM2041.8 1225.8 2001 1165 2205 1165 2205 1225.8 2041.8 1225.8Z"
+            fill="#2C39BF" fill-rule="evenodd" />
+    </g>
+</svg>
