@@ -2,9 +2,9 @@
 
 Various pride flags adapted into haskell logo.
 
-<table style="text-align: center">
+<table>
   <tr>
-    <td>
+    <td align="center" style="text-align: center">
       <img
         src="./png/prideskell.png"
         width="100"
@@ -12,7 +12,7 @@ Various pride flags adapted into haskell logo.
       /><br />
       Prideskell
     </td>
-    <td>
+    <td align="center" style="text-align: center">
       <img
         src="./png/hasbian.png"
         width="100"
@@ -20,7 +20,7 @@ Various pride flags adapted into haskell logo.
       /><br />
       Hasbian
     </td>
-    <td>
+    <td align="center" style="text-align: center">
       <img
         src="./png/haskemlm.png"
         width="100"
@@ -30,7 +30,7 @@ Various pride flags adapted into haskell logo.
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center" style="text-align: center">
       <img
         src="./png/biskell.png"
         width="100"
@@ -38,7 +38,7 @@ Various pride flags adapted into haskell logo.
       /><br />
       Biskell
     </td>
-    <td>
+    <td align="center" style="text-align: center">
       <img
         src="./png/panskell.png"
         width="100"
@@ -46,7 +46,7 @@ Various pride flags adapted into haskell logo.
       /><br />
       Panskell
     </td>
-    <td>
+    <td align="center" style="text-align: center">
       <img
         src="./png/haskellfluid.png"
         width="100"
@@ -56,7 +56,7 @@ Various pride flags adapted into haskell logo.
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center" style="text-align: center">
       <img
         src="./png/aceskell.png"
         width="100"
@@ -64,7 +64,7 @@ Various pride flags adapted into haskell logo.
       /><br />
       Aceskell
     </td>
-    <td>
+    <td align="center" style="text-align: center">
       <img
         src="./png/nbskell.png"
         width="100"
@@ -72,7 +72,7 @@ Various pride flags adapted into haskell logo.
       /><br />
       Enbiskell/NBskell
     </td>
-    <td>
+    <td align="center" style="text-align: center">
       <img
         src="./png/transkell.png"
         width="100"
@@ -82,7 +82,7 @@ Various pride flags adapted into haskell logo.
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center" style="text-align: center">
       <img
         src="./png/interskell.png"
         width="100"
@@ -90,7 +90,7 @@ Various pride flags adapted into haskell logo.
       /><br />
       Interskell
     </td>
-    <td>
+    <td align="center" style="text-align: center">
       <img
         src="./png/aroskell.png"
         width="100"
@@ -98,7 +98,7 @@ Various pride flags adapted into haskell logo.
       /><br />
       Aroskell
     </td>
-    <td>
+    <td align="center" style="text-align: center">
       <img
         src="./png/agenderskell.png"
         width="100"
