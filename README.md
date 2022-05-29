@@ -81,6 +81,32 @@ Various pride flags adapted into haskell logo.
       Transkell
     </td>
   </tr>
+  <tr>
+    <td>
+      <img
+        src="./png/interskell.png"
+        width="100"
+        alt="Haskell logo with intersex pride flag color scheme"
+      /><br />
+      Interskell
+    </td>
+    <td>
+      <img
+        src="./png/aroskell.png"
+        width="100"
+        alt="Haskell logo with aromantic pride flag color scheme"
+      /><br />
+      Aroskell
+    </td>
+    <td>
+      <img
+        src="./png/agenderskell.png"
+        width="100"
+        alt="Haskell logo with agender pride flag color scheme"
+      /><br />
+      Agender
+    </td>
+  </tr>
 </table>
 
 Acknowledgement to [Slavfox] for making transkell.
