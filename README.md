@@ -100,11 +100,11 @@ Various pride flags adapted into haskell logo.
     </td>
     <td align="center" style="text-align: center">
       <img
-        src="./png/agenderskell.png"
+        src="./png/astateful.png"
         width="100"
         alt="Haskell logo with agender pride flag color scheme"
       /><br />
-      Agender
+      Astateful
     </td>
   </tr>
 </table>
